@@ -1,3 +1,7 @@
+![App Screenshot](https://github.com/MariamYousry1234/Encrypt-Decrypt-Text-Project/blob/master/Encrypt%20Decrypt%20Project.PNG?raw=true)
+
+
+
 🧩 Project Description: Encrypt & Decrypt Text App
 
 This is a C# Windows Forms Application that allows users to encrypt and decrypt text using a simple numeric key.
